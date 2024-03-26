@@ -41,6 +41,8 @@ A curated repository for various papers in the domain of split learning.
 
 [split learning vertically](https://www.google.com/search?q=Ramesh+Raskar+split+learning+2023&client=ubuntu-sn&hs=NYa&channel=fs&sxsrf=AB5stBiYLzBzKnA0mgdfHZ1QQNMkeAb-Xg%3A1688280883102&ei=Mx-hZNr7BfWhptQPzb-PaA&ved=0ahUKEwia4cWyuO__AhX1kIkEHc3fAw0Q4dUDCA4&uact=5&oq=Ramesh+Raskar+split+learning+2023&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIFCAAQogQyBQgAEKIEOgsIABCKBRCGAxCwAzoFCCEQoAE6BAghEBVKBAhBGAFQ5wFYiQ9g9BVoAXAAeACAAX-IAZQEkgEDMS40mAEAoAEBwAEByAEC&sclient=gws-wiz-serp#fpstate=ive&vld=cid:a617bcc0,vid:pzJ32gK1__M)
 
+[PFSL: Personalized & Fair Split Learning with Data & Label Privacy for thin clients](https://ieeexplore.ieee.org/document/10171521)
+
 
 
 
@@ -79,6 +81,7 @@ A curated repository for various papers in the domain of split learning.
 [SplitFed: When Federated Learning Meets Split Learning](https://github.com/chandra2thapa/SplitFed-When-Federated-Learning-Meets-Split-Learning)
 
 [Split Neural Networks on PySyft](https://medium.com/analytics-vidhya/split-neural-networks-on-pysyft-ed2abf6385c0)
+[PFSL: Personalized & Fair Split Learning with Data & Label Privacy for thin clients](https://github.com/mnswdhw/pfsl)
 
 ## courses
 [OpenMinded AI concering privacy courses](https://courses.openmined.org/courses/foundations-of-private-computation)
